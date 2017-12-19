@@ -16,5 +16,5 @@ source activate ia_ufrpe
 ```
 pip install pandas sklearn jupyter scipy
 ```
-
+5. Executar  ```jupyter-notebook```
 
